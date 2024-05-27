@@ -1,0 +1,9 @@
+[submodule "nim-unicodedb"]
+	path = nim-unicodedb
+	url = https://github.com/nitely/nim-unicodedb
+[submodule "nim-regex"]
+	path = nim-regex
+	url = https://github.com/nitely/nim-regex
+[submodule "c2nim"]
+	path = c2nim
+	url = https://github.com/nim-lang/c2nim
